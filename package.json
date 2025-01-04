@@ -1,0 +1,11 @@
+{
+  "name": "advent-node-project",
+  "version": "1.0.0",
+  "description": "A little node project to quickly work on the advent of code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
